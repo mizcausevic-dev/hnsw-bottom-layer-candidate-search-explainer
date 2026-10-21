@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/hnsw-bottom-layer-candidate-search-explainer/
 
+Repository: https://github.com/mizcausevic-dev/hnsw-bottom-layer-candidate-search-explainer
+
 ## What this is
 
 An interactive anatomy plate for HNSW Bottom-Layer Candidate Search. Play, scrub, or jump the five stages. The same frame always draws the same picture.
